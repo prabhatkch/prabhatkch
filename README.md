@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **UX, UI, Design System, Web Hosting, HTML, CSS, JS, cPanel**
 
-- 📫 How to reach me **https://linkedin.com/in/prabhatkch**
+- 📫 Reach me at **https://linkedin.com/in/prabhatkch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
